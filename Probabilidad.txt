@@ -1,0 +1,26 @@
+Primera clase de probabilidad / 12 de Abril 
+
+    conceptos de probabilidad
+
+        *Definiciones 
+            -Experimento Mental 
+                Ejemplo de las baldosas
+
+            -Experimento Aleatorio / Espacio Muestral 
+                Ejemplo de los dados
+
+        Ejercicios 
+            -Determine si es un Experimento aleatorio y su espacio muestral
+                Lanzar tres veces un dado 
+                El lanzamiento de una moneda 
+                La cantidad de lanzamientos que se requieren de una moneda hasta sacar la cara
+
+
+        Eventos 
+            -El símbolo omega representa el conjunto de todos los datos posibles resultados 
+                de un experimento aleatorio. 
+
+            -Al conjunto vacío se le conoce como: 
+
+            -Un evento es una realización del experimento aleatorio. Si A es un conjunto de elementos de omega, 
+                se dice que A ocurre, si el resultado es uno de sus elementos. 
